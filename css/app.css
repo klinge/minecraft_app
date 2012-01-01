@@ -1,0 +1,11 @@
+/*!
+Specific css not belonging to jQuery Mobile 
+ */
+
+/* Handwritten CSS */
+
+DIV.centered {
+	margin-right: auto;
+	margin-left: auto;
+	width: 320px
+}
