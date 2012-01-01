@@ -1,1 +1,10 @@
-Testing, testing..
+###
+# Minecraft server status
+# A small app using JQuery Mobile and
+# PHP to show status of a minecraft server
+###
+# 2012-01-01 Johan Klinge
+###
+# Custom made for my server and can only be used by others after 
+# looking into the code and doing approprioate changes
+###
